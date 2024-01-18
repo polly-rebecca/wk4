@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Find Your Perfect Adventure! - Take The Quiz Now</title>
+    
+  </head>
+  <body>
+  <header>
+    <h1 style="color: #555555;">Find Your Perfect Adventure</h1>
+    <h2>Home | Questionnaire | FAQ</h2>
+    <main>
+      <div>
+        <img src="https://d3rr2gvhjw0wwy.cloudfront.net/uploads/mandators/27199/file-manager/adventure-tourism.jpg" alt="pmlipp" width="500px" />
+      </div>
+      <aside>
+        <article>
+          <b>Find your home away from home in just a few questions:</b>
+        </article>
+
+        <article>
+          <ul>
+            <div style="font-family: Arial, Helvetica, sans-serif;">What is your favourite season?</div>
+            <div style="font-family:Arial, Helvetica, sans-serif;">How active are you day to day?</div>
+            <div style="font-family: Arial, Helvetica, sans-serif;">How big is your piggy bank?</div>
+            <div style="font-family:Arial, Helvetica, sans-serif;">What is your favourite hobby?</div>
+          </ul>
+        </article>
+      </aside>
+      <b style="color: #616164;">Stop wishing you were on holiday and just book it! You'll thank us later.</b>
+    </main>
+    <div>
+      <p>
+
+      </p>
+    </div>
+    <footer>
+      <div><img src="https://www.bestchoiceholidays.co.uk/assets/userfiles/holidays-by-month1.jpg" alt="awesome-vacation-summer-collage-63rn4seucczz10n2" width="500px"></div>
+      <div>
+        <a href="https://www.booking.com/index.en-gb.html?aid=2311236;label=en-gb-booking-desktop-VMmKSr1aafFoLdSbpq0nsAS652828998418:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-334108349:lp1006555:li:dec:dm;ws=&gad_source=1&gclid=EAIaIQobChMIwr71j6XlgwMVrZNQBh2VUggMEAAYASAAEgIPgfD_BwE"> <i style="color: #e4214p">Click here to book destinations, flights and hotels!!</a> </i>
+      </div>
+</body>
+  </span>
+</html>
